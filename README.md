@@ -12,7 +12,7 @@ Welcome to WWE Fan Central! This is a hobby website project dedicated to all thi
 - **Interactive Match Simulation**: Create simulation matches with your favourite superstars.
 
 ## Design
-The current design of the website is available at [https://www.figma.com/file/kkDnaL0wMRuXp9w8RxyU3x/WWE-Fan-Central?type=design&node-id=0%3A1&mode=dev&t=uK5Ak08Znb7R9YBl-1](Figma)
+The current design of the website is available at [Figma](https://www.figma.com/file/kkDnaL0wMRuXp9w8RxyU3x/WWE-Fan-Central?type=design&node-id=0%3A1&mode=dev&t=uK5Ak08Znb7R9YBl-1)
 
 ## Technologies Used
 
