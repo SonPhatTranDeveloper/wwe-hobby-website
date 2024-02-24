@@ -9,7 +9,7 @@ Welcome to WWE Fan Central! This is a hobby website project dedicated to all thi
 - **Superstar Profiles**: Learn more about your favorite WWE superstars, their biographies, career highlights, and stats.
 - **Match Highlights**: Relive epic moments and watch highlights from my list of memorable matches and events.
 - **Event Highlights**: Browse through a collection of stunning photos capturing the action-packed moments from WWE.
-- **Interactive Match Simulation**: Engage with other fans through forums, discussions, and polls.
+- **Interactive Match Simulation**: Create simulation matches with your favourite superstars.
 
 ## Technologies Used
 
